@@ -12,7 +12,7 @@ And we have the inverse.
 
 Usage:
 python short.py {TICKER} {SELL_COUNT} - use this on stocks you think are doing poorly in the long term
-python recur.py {TICKER} - use this on stocks to invest a dollar a day
+python recur.py {TICKER} - use this on stocks to invest a share a day
 
 Strategy Explanation:
 https://www.youtube.com/watch?v=dRYBh6dtxjY
