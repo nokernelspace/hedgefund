@@ -10,4 +10,9 @@ And we have the inverse.
             - >>Use technical analysis throughout the day to track momentum, try to stay as in cash as possible, since we believe the stocks are going to do poorly
                 - >>>We can make money off stocks that are long term doing poorly
 
+Usage:
+python short.py {TICKER} {SELL_COUNT} - use this on stocks you think are doing poorly in the long term
+python recur.py {TICKER} - use this on stocks to invest a dollar a day
+
+Strategy Explanation:
 https://www.youtube.com/watch?v=dRYBh6dtxjY
