@@ -16,3 +16,9 @@ python recur.py {TICKER} - use this on stocks to invest a share a day
 
 Strategy Explanation:
 https://www.youtube.com/watch?v=dRYBh6dtxjY
+
+Basically we are making money off theta decay in options markets
+Your orders will always be sold, you will never make money off day-trading in robinhood
+Just try to let your options expire and make money off people who buy call options.
+
+The Fastest Way to Gamble is on SPY
