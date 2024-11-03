@@ -9,3 +9,5 @@ And we have the inverse.
         - >A larger tick size will allow for profit taking via selling cash-secured puts when they lose momentum
             - >>Use technical analysis throughout the day to track momentum, try to stay as in cash as possible, since we believe the stocks are going to do poorly
                 - >>>We can make money off stocks that are long term doing poorly
+
+https://www.youtube.com/watch?v=dRYBh6dtxjY
